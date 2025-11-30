@@ -1,5 +1,7 @@
 # Servidor Minecrat - 1.20.1
 
+![status](https://img.shields.io/badge/status-active-brightgreen)
+
 Servidor de Minecraft para jogar com a Tropinha
 
 ---
@@ -22,4 +24,4 @@ Servidor rodando por padrão em:
 
 ## 🐱‍👤 Bora
 
-Entre e se divirta [![Limite de:](20 players)]
+Entre e se divirta `Limite de **20 Players**`
