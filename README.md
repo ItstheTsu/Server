@@ -18,7 +18,7 @@ Servidor de Minecraft para jogar com a Tropinha
 ## 🌐 Acesso e portas
 
 Servidor rodando por padrão em:
-`http://localhost:[PORTA]`
+`needed-geek.gl.joinmc.link`
 
 ---
 
