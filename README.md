@@ -29,6 +29,8 @@ Servidor rodando por padrão em:
 ---
 ## 📁 Mods
 
+
+| Mods: |
 |-------------------------------|
 | tl_skin_cape_forge_1.20_1.20.1-1.32 |
 | preview_OptiFine_1.20.1_HD_U_I6_pre6 |
@@ -36,4 +38,3 @@ Servidor rodando por padrão em:
 | jei-1.20.1-forge-15.20.0.118 |
 | citadel-2.6.2-1.20.1 |
 | alexsmobs-1.22.9 |
-|-------------------------------|
