@@ -38,3 +38,9 @@ Servidor rodando por padrão em:
 | jei-1.20.1-forge-15.20.0.118 |
 | citadel-2.6.2-1.20.1 |
 | alexsmobs-1.22.9 |
+
+---
+
+## Made by:
+
+©AllanCorr3a | Allan Correa | ©ItstheTsu - 2025
