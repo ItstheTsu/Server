@@ -15,14 +15,20 @@ Servidor de Minecraft para jogar com a Tropinha
 
 ---
 
+## 🐱‍👤 Bora
+
+Entre e se divirta `Limite de:` *20 Players*
+
+---
+
 ## 🌐 Acesso e portas
 
 Servidor rodando por padrão em:
 `needed-geek.gl.joinmc.link`
 
 ---
+## 📁 Mods
 
-| 📁 Mods |
 |-------------------------------|
 | tl_skin_cape_forge_1.20_1.20.1-1.32 |
 | preview_OptiFine_1.20.1_HD_U_I6_pre6 |
@@ -30,9 +36,4 @@ Servidor rodando por padrão em:
 | jei-1.20.1-forge-15.20.0.118 |
 | citadel-2.6.2-1.20.1 |
 | alexsmobs-1.22.9 |
-
----
-
-## 🐱‍👤 Bora
-
-Entre e se divirta `Limite de:` *20 Players*
+|-------------------------------|
