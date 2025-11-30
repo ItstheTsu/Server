@@ -24,4 +24,4 @@ Servidor rodando por padrão em:
 
 ## 🐱‍👤 Bora
 
-Entre e se divirta `Limite de _20 Players_`
+Entre e se divirta `Limite de:` *20 Players*
