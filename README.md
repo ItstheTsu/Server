@@ -22,4 +22,4 @@ Servidor rodando por padrão em:
 
 ## 🐱‍👤 Bora
 
-Entre e se divirta [`Limite de 20 players`]
+Entre e se divirta [![Limite de:](20 players)]
